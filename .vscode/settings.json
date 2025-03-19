@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "WebApplication1.sln",
+    "appService.defaultWebAppToDeploy": "/subscriptions/c90b9423-9be0-498b-94e3-2aed4c932d85/resourceGroups/laboratorio-az-204/providers/Microsoft.Web/sites/webapp-web-inv170320251407",
+    "appService.deploySubpath": "bin\\Publish"
+}

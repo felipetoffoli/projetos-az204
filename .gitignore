@@ -1,0 +1,39 @@
+# Compiled files
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build artifacts
+*.exe
+*.dll
+*.pdb
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.nupkg
+*.snupkg
+*.log
+
+# ASP.NET specific
+appsettings*.json
+
+# Entity Framework migrations
+Migrations/
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# Node.js (se usar Node dentro do projeto)
+node_modules/
+
+# Secrets
+secrets.json
